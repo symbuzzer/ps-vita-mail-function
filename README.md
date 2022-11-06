@@ -1,5 +1,5 @@
 # ps-vita-mail-function
-Play Station Vita homebrew to add magic function to Mail app  
+Play Station Vita homebrew to add magic functions to Mail app  
   
 HOW TO USE:  
 -Download source binary and change its extension from zip to vpk  
