@@ -3,7 +3,7 @@ Play Station Vita homebrew to add magic functions to Mail app
   
 HOW TO USE:  
 -Download source binary and change its extension from zip to vpk  
--If you want to use firmware reinstall feature, find and download same firmware versions "PSP2UPDAT.pup" file and add in "data.zip"  
+-If you want to use firmware reinstall feature, find and download same firmware versions "PSP2UPDAT.pup" file and add in "res\data.zip\PSP2\UPDATE\"  
   
 NOTES:   
 -Henkaku should be installed to Playstation Vita  
